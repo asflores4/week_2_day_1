@@ -14,3 +14,8 @@ print("My favorite holiday is " + holiday)
 print("The day is " + day +
       " and your favorite holiday is "
       + holiday)
+
+#making a change to the file
+#string slicing
+word = "hello"
+print(word[1:4])
